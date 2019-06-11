@@ -1,0 +1,15 @@
+C:\Users\3020\Desktop\assistente .pam\Pam\Pam\obj\Debug\Pam.csprojAssemblyReference.cache
+C:\Users\3020\Desktop\assistente .pam\Pam\Pam\obj\Debug\Pam.Form1.resources
+C:\Users\3020\Desktop\assistente .pam\Pam\Pam\obj\Debug\Pam.Properties.Resources.resources
+C:\Users\3020\Desktop\assistente .pam\Pam\Pam\obj\Debug\Pam.csproj.GenerateResource.cache
+C:\Users\3020\Desktop\assistente .pam\Pam\Pam\obj\Debug\Pam.csproj.CoreCompileInputs.cache
+C:\Users\3020\Desktop\assistente .pam\Pam\Pam\bin\Debug\Pam.exe.config
+C:\Users\3020\Desktop\assistente .pam\Pam\Pam\bin\Debug\Pam.exe
+C:\Users\3020\Desktop\assistente .pam\Pam\Pam\bin\Debug\Pam.pdb
+C:\Users\3020\Desktop\assistente .pam\Pam\Pam\bin\Debug\Microsoft.Speech.dll
+C:\Users\3020\Desktop\assistente .pam\Pam\Pam\obj\Debug\Pam.csproj.CopyComplete
+C:\Users\3020\Desktop\assistente .pam\Pam\Pam\obj\Debug\Pam.exe
+C:\Users\3020\Desktop\assistente .pam\Pam\Pam\obj\Debug\Pam.pdb
+C:\Users\3020\Desktop\assistente .pam\Pam\Pam\obj\Debug\Pam.Form2.resources
+C:\Users\3020\Desktop\assistente .pam\Pam\Pam\obj\Debug\Pam.VozForm2.resources
+C:\Users\3020\Desktop\assistente .pam\Pam\Pam\obj\Debug\Pam.browser.resources
